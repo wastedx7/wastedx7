@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Anugrah 👋
 
 Backend-focused developer working mainly with Java and Spring Boot.  
 I like building APIs that behave, databases that don’t lie, and code that’s readable six months later.
