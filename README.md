@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**wastedx7/wastedx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer working mainly with Java and Spring Boot.  
+I like building APIs that behave, databases that don’t lie, and code that’s readable six months later.
 
-Here are some ideas to get you started:
+## 🛠 Tech I Work With
+- Java
+- Spring Boot
+- Spring Data JPA
+- REST APIs
+- SQL / Relational Databases
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I’m Working On
+- Backend services with Spring Boot
+- Improving API design and data modeling
+- Learning more about system design and backend architecture
+
+## 📈 What I Care About
+- Clean, maintainable code
+- Understanding how things work instead of copy-pasting
+- Fixing bugs properly, not just making them quiet
+
+## 📫 Contact
+- GitHub: you’re already here
+- X: https://x.com/wastedx7
+
+---
