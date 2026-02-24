@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" alt="coding" width="350" height="190" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <h3 align="center">💫 About Me</h3>
 
