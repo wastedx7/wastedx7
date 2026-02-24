@@ -5,10 +5,9 @@
 
 ---
 
-
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <h3 align="center">💫 About Me</h3>
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 🔭 Building **backend systems, REST APIs, and microservices**
 - 🌱 Learning **Spring Boot internals, distributed systems, and cloud-native architecture**
