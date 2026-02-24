@@ -5,9 +5,10 @@
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-## 💫 About Me
+
+<h3 align="center">💫 About Me</h3>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 🔭 Building **backend systems, REST APIs, and microservices**
 - 🌱 Learning **Spring Boot internals, distributed systems, and cloud-native architecture**
@@ -17,7 +18,7 @@
 
 ---
 
-## 🌐 Connect With Me
+<h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
 
@@ -49,7 +50,7 @@
 
 ---
 
-## 📚 Languages, Frameworks, Tools, Databases
+<h3 align="center">📚 Languages, Frameworks, Tools, Databases</h3>
 
 <div align="center">
 
@@ -62,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
 
@@ -74,7 +75,7 @@
 
 ---
 
-## 💻 Backend Tech Stack
+<h3 align="center">💻 Backend Tech Stack</h3>
 
 <div align="center">
 
@@ -88,6 +89,5 @@
 </div>
 
 ---
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
