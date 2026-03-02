@@ -62,13 +62,11 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">💬 Quote of the Day</h3>
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=wastedx7&show_icons=true&theme=tokyonight"/>
-
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=wastedx7&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
