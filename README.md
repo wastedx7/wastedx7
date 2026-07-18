@@ -6,7 +6,17 @@
 #### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,c,mysql,postgresql" />
+</p>
+
+#### Backend & Services
+
+<p>
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" />
 </p>
 
  #### Links
