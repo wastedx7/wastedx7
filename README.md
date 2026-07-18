@@ -2,7 +2,6 @@
   src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=30&pause=600&color=FFFFFF&width=700&lines=Anugrah+Umarvanshi;Software+Developer;Backend+Engineering;MicroServices"
   alt="Typing SVG"
 />
-
 #### Languages
 
 <p>
