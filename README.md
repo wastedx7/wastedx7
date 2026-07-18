@@ -41,3 +41,27 @@
   </a>
     &nbsp;&nbsp;
 </p>
+
+  ## Featured Projects
+
+### [expense-tracker](https://github.com/wastedx7/expense-tracker)
+A microservices-based Expense Tracker API. Features service discovery, API Gateway authentication, and PostgreSQL integration.
+* **Stack:** `Java 21` `Spring Boot 3.5` `Spring Cloud` `PostgreSQL`
+
+---
+
+### [lucid-shell](https://github.com/wastedx7/lucid-shell)
+A lightweight UNIX shell written in C from scratch. Features built-in commands, environment variables, PATH searching, and clean memory management.
+* **Stack:** `C` `Makefile`
+
+---
+
+### [Employota](https://github.com/wastedx7/Employota)
+A web application that allows administrators to perform CRUD (Create, Read, Update, Delete) operations on employee records.
+* **Stack:** `Java 21` `Spring Boot 3.5` `Spring Data JPA` `MySQL`
+
+---
+
+### [process-manager](https://github.com/wastedx7/process-manager)
+A lightweight terminal utility that scans the Linux `/proc` filesystem, collects basic process metrics, and prints them in a formatted table.
+* **Stack:** `C` `Makefile`
